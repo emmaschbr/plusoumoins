@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592836693 source:/home/emma/Documents/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
